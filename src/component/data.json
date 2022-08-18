@@ -1,0 +1,68 @@
+{
+  "electronics": [
+    {
+      "title": "Iphone 11 pro max",
+      "Price": "RS 1,20,000",
+      "image": "https://m.media-amazon.com/images/I/71MHTD3uL4L.jpg"
+    },
+    {
+      "title": "onePlus 10 pro",
+      "Price": "RS 70,000",
+      "image": "https://www.zdnet.com/a/img/resize/f2779db98b3e73abbafe47921949b6d3986f3c48/2022/04/05/ae14f3f7-f2be-4824-95a0-e1185760cd4b/oneplus-10-pro-hero-770x433.jpg?auto=webp&width=1200"
+    },
+    {
+      "title": "Galaxy S21 | S21+ | S21 Ultra 5G",
+      "Price": "RS 1,20,000",
+      "image": "https://images.samsung.com/at/smartphones/galaxy-s21/buy/02_ImageCarousel/02_GroupShot-P3/S21_Ultra_Group_KV_MO_img.jpg?imwidth=720"
+    },
+    {
+      "title": "Xiaomi Mi 11 Ultra",
+      "Price": "RS 1,20,000",
+      "image": "https://www.notebookcheck.net/uploads/tx_nbc2/Xiaomi_Mi11_Ultra_2_4.jpg"
+    }
+  ],
+  "homeAndFurniture": [
+    {
+      "title": "King Bed",
+      "Price": "RS 47,999",
+      "image": "https://images.woodenstreet.de/image/data%2Fbed-with-storage%2Fadolph-bed-with-side-storage%2Frevised%2Frevised%2Fhoney%2Ffront.jpg"
+    },
+    {
+      "title": "Home Decorations",
+      "Price": "RS 1299",
+      "image": "https://www.pinkvilla.com/imageresize/best_home_decor_items_under_rs_999_to_redecorate_your_living_room.jpg?width=752&format=webp&t=pvorg"
+    },
+    {
+      "title": "Fortuneprime wall shelf",
+      "Price": "RS 899",
+      "image": "https://m.media-amazon.com/images/I/61q73U+W3SL._SX425_.jpg"
+    },
+    {
+      "title": "Sofa Set",
+      "Price": "RS 20,000",
+      "image": "https://www.rd.com/wp-content/uploads/2018/10/15-Things-Your-Home-D%C3%A9cor-Reveals-About-Your-Personality-5.jpg"
+    }
+  ],
+  "mens": [
+    {
+      "title": "Men's Casual Pant",
+      "Price": "RS 3,99",
+      "image": "https://5.imimg.com/data5/JV/VO/MY-4716778/men-s-casual-pant-500x500.jpg"
+    },
+    {
+      "title": "Men's Formal Shirt",
+      "Price": "RS 1299",
+      "image": "https://5.imimg.com/data5/WX/XG/MY-5002636/designer-mens-denim-shirt-500x500.jpg"
+    },
+    {
+      "title": "Men's Watch",
+      "Price": "RS 899",
+      "image": "https://img.guess.com/image/upload/f_auto,q_auto:eco,fl_strip_profile,dpr_1.5,fl_advanced_resize,fl_progressive,w_300,c_scale/v1/NA/Style/ECOMM/GW0427G2-MULTI"
+    },
+    {
+      "title": "Men's Belt",
+      "Price": "RS 499",
+      "image": "https://n.nordstrommedia.com/id/sr3/ad29b654-019c-4ef2-8795-a46fa4336931.jpeg?h=365&w=240&dpr=2"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: aqua;
+    padding: 10px;
+}
+
+.navbar>div {
+    padding: 10px;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.products {
+    width: 500px;
+    margin: auto;
+    border: 1px solid grey;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.products>button {
+    margin-left: 10px;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
