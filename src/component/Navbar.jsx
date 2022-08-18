@@ -3,21 +3,31 @@ import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
 import "./style.css";
 
 import { Link } from "react-router-dom";
+import { AppBar, Badge, IconButton, Paper } from "@mui/material";
 function Navbar({ cart }) {
   return (
-    <div className="navbar">
-      <Link className="link" to="categories">
-        <div>Categories</div>
-      </Link>
-      <div>
-        <span>
-          <Link className="link" to="/cartItem">
-            <ShoppingCartIcon />
+    <Paper elevation={3}>
+      <AppBar position="fixed">
+        <div className="navbar">
+          <Link className="link" to="categories">
+            <div>Categories</div>
           </Link>
-        </span>
-        <span>{cart}</span>
-      </div>
-    </div>
+          <div>
+            <Link className="link" to="/cartItem">
+              <IconButton
+                size="large"
+                aria-label="show 4 new mails"
+                color="inherit"
+              >
+                <Badge badgeContent={cart} color="error">
+                  <ShoppingCartIcon />
+                </Badge>
+              </IconButton>
+            </Link>
+          </div>
+        </div>
+      </AppBar>
+    </Paper>
   );
 }
 export default Navbar;
